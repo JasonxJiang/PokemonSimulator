@@ -102,12 +102,12 @@ public class PokemonRunner extends javax.swing.JApplet {
         
         
     }
-public static void main (String [] args)
+/*public static void main (String [] args)
 {
     //System.out.println("Hello World");
     PokemonRunner PokemonPlayer = new PokemonRunner();
     PokemonPlayer.initComponents();
-}
+}*/
     /**
      * This method is called from within the init() method to initialize the
      * form. WARNING: Do NOT modify this code. The content of this method is
